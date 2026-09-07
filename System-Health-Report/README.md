@@ -1,4 +1,4 @@
-# Server Performance Stats
+# System Health Report
 
 A Bash-based server health monitoring script that collects and displays
 system performance metrics, network status, running services, and
