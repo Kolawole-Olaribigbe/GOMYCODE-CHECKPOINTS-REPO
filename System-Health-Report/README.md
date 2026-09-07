@@ -177,18 +177,6 @@ This project helped me practice:
 - Running scripts with elevated privileges
 - Git and GitHub workflow
 
-## Future Improvements
-
-Possible future improvements include:
-
-- Add configurable warning thresholds
-- Add command-line options
-- Add email or Slack notifications
-- Add historical performance tracking
-- Add automated execution with cron or systemd timers
-- Export reports in JSON format
-- Integrate with Prometheus and Grafana
-
 ## Author
 
 **Kolawole Olaribigbe**
