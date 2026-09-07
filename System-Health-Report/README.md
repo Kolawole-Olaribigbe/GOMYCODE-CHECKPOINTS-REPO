@@ -156,7 +156,7 @@ Snapd:           active
 ## Project Structure
 
 ```text
-server-performance-stats/
+System-Health-Report/
 ├── server-stats.sh
 └── README.md
 ```
