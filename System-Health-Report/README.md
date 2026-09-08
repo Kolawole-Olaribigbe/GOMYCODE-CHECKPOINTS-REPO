@@ -80,7 +80,7 @@ git clone git@github.com:Kolawole-Olaribigbe/GOMYCODE-PROJECTS-REPO.git
 Move into the project directory:
 
 ```bash
-cd server-performance-stats
+cd System-Health-Report
 ```
 
 Make the script executable:
