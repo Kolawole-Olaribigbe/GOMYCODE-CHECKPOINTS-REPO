@@ -798,15 +798,3 @@ docker.compose logs
 
 ---
 
-# Checkpoint Status
-
-| Area                        | Status   |
-| --------------------------- | -------- |
-| Docker Basics & CLI         | Complete |
-| Docker Images & Dockerfiles | Complete |
-| Docker Volumes & Storage    | Complete |
-| Docker Networking           | Complete |
-| Docker Compose              | Complete |
-
-**Checkpoint completed successfully.**
-
