@@ -485,6 +485,8 @@ docker rm -f network-app network-client
 
 # 5. Docker Compose
 
+**Note:** The Docker environment used for this checkpoint exposes Docker Compose through the `docker.compose` command. Therefore, commands such as `docker.compose up -d`, `docker.compose ps`, and `docker.compose logs` are used instead of the traditional `docker-compose` syntax.
+
 Directory:
 
 ```text
